@@ -3,7 +3,7 @@
 
 ---
 
-### 🎯 Roadmap 2026: "El Camino del Hacker"
+### 🎯 Roadmap 2026:
 * **Current Goal**: Aspiring Red Teamer.
 * **Phase 1 (Now - March 15)**: Bash Scripting, Linux & Automation.
 
