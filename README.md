@@ -9,7 +9,7 @@
 
 ### 🚀 Projects & Progress
 * ✅ **HTB Machine Parser**: Completed! A tool to search and filter HTB machines via terminal.
-* 🎰 **Roulette Scripts (In Progress)**: Developing logic-based scripts for Martingale and Inverse Martingale strategies.
+* 🎰 **Roulette Scripts (In Progress)**: Developing logic-based scripts for Martingale and Inverse Labrouchere strategies.
 * 🐧 **Dotfiles**: Personal `bspwm` & `kitty` environment for security auditing.
 
 ### 💻 Tech Stack
