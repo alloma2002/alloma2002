@@ -5,7 +5,7 @@
 
 ### 🎯 Roadmap 2026:
 * **Current Goal**: Aspiring Red Teamer.
-* **Phase 1 (Now - March 15)**: Bash Scripting, Linux & Automation.
+* **Phase 1 (Jan 15 - March 15)**: Bash Scripting, Linux & Automation.
 
 ### 🚀 Projects & Progress
 * ✅ **HTB Machine Parser**: Completed! A tool to search and filter HTB machines via terminal.
