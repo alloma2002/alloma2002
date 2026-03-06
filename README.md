@@ -5,7 +5,7 @@
 ## 📅 Roadmap 2026:
 * **Current Goal:** Aspiring Red Teamer.
 * **Phase 1 (Completed):** Bash Scripting, Linux & Automation.
-* **Phase 2 (Starting Mar 7):** Hacking Fundamentals & Networking (124 classes).
+* **Phase 2 (In progress):** Hacking Fundamentals & Networking (124 classes).
 
 ## 🛠️ Projects & Progress
 * ✅ **HTB Machine Parser:** Tool for searching/filtering HTB machines.
