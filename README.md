@@ -10,7 +10,7 @@
 ## 🛠️ Projects & Progress
 * ✅ **HTB Machine Parser:** Tool for searching/filtering HTB machines.
 * ✅ **Roulette Scripts:** Martingale & Inverse Labrouchere strategies implemented.
-* 🛠️ **Dotfiles:** Personal bspwm & kitty environment for security auditing.
+* ✅ **Dotfiles:** Personal bspwm & kitty environment for security auditing.
   
 ### 💻 Tech Stack
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
